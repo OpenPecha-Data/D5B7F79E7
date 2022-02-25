@@ -1819,37 +1819,37 @@ annotations:
     reference: ''
     span:
       start: 337825
-      end: 339828
+      end: 339833
   a34999362224434a8bdca7b51c0fec31:
     imgnum: 1127
     reference: ''
     span:
-      start: 339830
-      end: 341824
+      start: 339835
+      end: 341829
   d57db1519b3b41d6802e80fac0b9594f:
     imgnum: 1128
     reference: ''
     span:
-      start: 341826
-      end: 343752
+      start: 341831
+      end: 343757
   46e423fd8e5944bca2149537b0551186:
     imgnum: 1129
     reference: ''
     span:
-      start: 343754
-      end: 345708
+      start: 343759
+      end: 345713
   7ac62d36ac8d4b6cbe967fa28b3445d7:
     imgnum: 1130
     reference: ''
     span:
-      start: 345710
-      end: 347564
+      start: 345715
+      end: 347569
   ddbbf6eb35e54601b90f850398d682d6:
     imgnum: 1131
     reference: ''
     span:
-      start: 347566
-      end: 349107
+      start: 347571
+      end: 349112
   4e75f668105f41429a48544804827acc:
     imgnum: 1132
     reference: ''
